@@ -1,3 +1,3 @@
-# Html son ödev GoogleBeta sayfası Tasarımı Yapıldı
+# Html son ödev GoogleBeta sayfası tasarımı Yapıldı
 
 ![Fotoğraf](img/ss.png)
